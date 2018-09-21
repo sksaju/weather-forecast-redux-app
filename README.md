@@ -1,7 +1,4 @@
-# Redux
-Redux starter projects
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# Weather Forecast Redux App
 
 ### Getting Started
 
@@ -11,14 +8,14 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/sksaju/Redux/
-> cd {project-path}
+> git clone https://github.com/sksaju/WeatherForecastReduxApp/
+> cd WeatherForecastReduxApp
 > npm install
 > npm start
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/sksaju/Redux/) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/sksaju/WeatherForecastReduxApp/) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
